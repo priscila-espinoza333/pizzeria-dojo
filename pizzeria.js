@@ -30,4 +30,4 @@ var PizzaRoma = ("delgada", "mozzarella", ["salsa de tomate", "salsa blanca"] ,[
 console.log(PizzaRoma);
 
 var PizzVegana = ("tradicional", "mozzarella", ["tomate" ,"champiñones", "rucula", "aceitunas", "cebollas", "choclo"]);
-console.log(PizzEstiloChicago);
+console.log("tu pizza" +PizzVegana + "esta lista!!");
